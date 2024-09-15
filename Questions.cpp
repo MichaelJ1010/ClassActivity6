@@ -10,6 +10,8 @@ int main(){
     cout << "what is your city, state, and zipcode?" << endl;
     cin >> city >> state >> zipcode;
 
+    cout << street << endl << city << ", " << state << ", " << zipcode << endl;
+
 
     return 0;
 }
